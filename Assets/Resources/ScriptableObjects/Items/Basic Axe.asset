@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6c05cb23c1ee574f86164a9e0e0ec58, type: 3}
+  m_Name: Basic Axe
+  m_EditorClassIdentifier: Assembly-CSharp::HarvestItemSO
+  ItemID: basic_axe
+  DisplayName: Basic_axe
+  Icon: {fileID: -233172576, guid: 68f7b9a3d8c101f40b1548ac4b511fe1, type: 3}
+  IsConstructable: 0
+  IsPlaceable: 0
+  IsUsable: 1
+  MaxStackAmount: 10
+  ItemPrefab: {fileID: 6618725628355234377, guid: 7583a0cb637781f418016b28100712cc, type: 3}
+  AnimString: Axe_Chop
+  UseSoundFX: {fileID: 0}
+  Quality: 0
+  ToolType: 1
+  BaseDamage: 1
+  OptimalDamage: 1

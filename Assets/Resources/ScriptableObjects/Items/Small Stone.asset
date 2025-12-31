@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bb5574b9f81a6e48a96ee820acb8488, type: 3}
+  m_Name: Small Stone
+  m_EditorClassIdentifier: Assembly-CSharp::ItemSO
+  ItemID: small_stone
+  DisplayName: Small Stone
+  Icon: {fileID: 1475946435, guid: 7dcf6e0cafaacc242b06b542ee2fc7a7, type: 3}
+  IsConstructable: 0
+  IsPlaceable: 0
+  IsUsable: 0
+  MaxStackAmount: 10
+  ItemPrefab: {fileID: 0}
+  AnimString: 
+  UseSoundFX: {fileID: 0}
