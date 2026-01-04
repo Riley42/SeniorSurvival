@@ -6,7 +6,7 @@ public class PickupItem : MonoBehaviour, IInteractable
 
     public string GetDisplayName()
     {
-        return itemData.DisplayName;
+        return itemData.DisplayName == null ? "Unnamed Item" : itemData.DisplayName;
     }
     public void Interact()
     {

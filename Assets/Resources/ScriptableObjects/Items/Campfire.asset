@@ -19,6 +19,6 @@ MonoBehaviour:
   IsPlaceable: 1
   IsUsable: 0
   MaxStackAmount: 10
-  ItemPrefab: {fileID: 0}
+  ItemPrefab: {fileID: 5305179331193592161, guid: 2a189378f5b492c4084bbe8f9b688785, type: 3}
   AnimString: 
   UseSoundFX: {fileID: 0}
